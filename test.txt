@@ -2,3 +2,4 @@ merge conf
 dev
 dev
 dev2
+master
